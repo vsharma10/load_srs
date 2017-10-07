@@ -1,2 +1,3 @@
 # load_srs
-Download, extract, and load FAERS and CVAR databases on local mysql
+1) Download, extract, and load FAERS and CVAR databases on local mysql.
+2) More information on database specific README files.
