@@ -1,3 +1,4 @@
+#!/bin/sh
 # Extract relevant information from raw CVAR files
 # CVAR data (1965 to 2017-03031)
 # Oct 5th, 2017 Author: Vivekanand Sharma
